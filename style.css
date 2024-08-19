@@ -184,7 +184,7 @@ footer .credit{
 
 /* Hero section  */
 .banner{
-    background-image: url(Banner-images2.jpg);
+    background-image: url(Banners/Banner-images2.jpg);
     width: 100%;
     height: 780px;
     background-repeat: no-repeat;
@@ -347,6 +347,8 @@ footer .credit{
     font-size: 24px;
     font-weight: 500;
     border: 2px solid black;
+    background-color: white;
+    cursor: pointer;
     
 }
 /* product-section  */
@@ -486,7 +488,7 @@ footer .credit{
     padding-top: 100px;
 }
 .gift-container .gift{
-    background-image: url(Gift.jpg);
+    background-image: url(Gift-Image/Gift.jpg);
     height: 448px;
     width: 100%;
     background-repeat: no-repeat;
